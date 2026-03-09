@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+p{
+    background-color: aquamarine;
+    color: maroon;
+    text-align: center;
+    border: 2px solid black;
+}
