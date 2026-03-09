@@ -10,3 +10,9 @@ p{
     text-align: center;
     border: 2px solid black;
 }
+table{
+    background-color: bisque;
+}
+table th{
+    background-color: cadetblue;
+}
